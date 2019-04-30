@@ -15,8 +15,8 @@ Express was ued for route handling.
 <h2>Heroku Preview Here: </h2>
 https://intense-basin-43844.herokuapp.com/
 
-<h2>Link to video demonstration: </h2> 
-https://www.youtube.com/watch?v=XhSnLWastbo&feature=youtu.be
+<h2></h2> 
+
 
 <h2>Built With: </h2>
 <ul>
