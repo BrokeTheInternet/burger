@@ -1,0 +1,31 @@
+.jumbotron {
+  background-image: url("../img/burgerpic2.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: #000000;
+  color: #05a100;
+  margin-top: 3%;
+}
+#newburger {
+  color: #5c5c5c;
+}
+#leftside {
+  background-color: #ff0000;
+  color: white;
+  text-align: center;
+  font-size: 1.3em;
+}
+#rightside {
+  background-color: #05a100;
+  color: white;
+  text-align: center;
+  font-size: 1.3em;
+}
+
+#back {
+  background-color: #139e0e;
+}
+
+.container {
+  background-color: #ffffff;
+}
